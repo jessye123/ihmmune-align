@@ -18,7 +18,7 @@ Steps:
 
 2. Use java EE Eclipse open the project "immu" and files
 
-3. Change the files location to your local folder
+3. Change the files location to your local folder:
 for example:
  change
 "/srvr/ihmmune/tomcat7/webapps/immuFile/IGHV_Repertoire.fa"   
@@ -27,7 +27,7 @@ for example:
 
 4. Recompile and build the project use Eclipse and create the immu.war
 
-5. Install Tomcat 6.0 or above in your local computer
-move immu.war to tomcat Webapp folder
-open web brower and run the web application
+5. Install Tomcat 6.0 or above in your local computer.
+move immu.war to tomcat Webapp folder.
+open web brower and run the web application.
     
