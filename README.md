@@ -8,9 +8,9 @@ ihummune align with web interface and protein analysis
                              
 These programs are writen using Java, JSP
 
-=======================================================================
+=====================================
      The files and deploying methods
-=======================================================================
+=====================================
 
 Steps:
 
