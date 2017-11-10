@@ -28,6 +28,6 @@ for example:
 4. Recompile and build the project use Eclipse and create the immu.war
 
 5. Install Tomcat 6.0 or above in your local computer.
-move immu.war to tomcat Webapp folder.
-open web brower and run the web application.
+ Move immu.war to tomcat Webapp folder.
+ Open web brower and run the web application.
     
