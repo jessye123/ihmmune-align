@@ -31,3 +31,4 @@ for example:
  Move immu.war to tomcat Webapp folder.
  Open web brower and run the web application.
     
+License under GPLv3
